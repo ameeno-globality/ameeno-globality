@@ -44,7 +44,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -54,7 +54,7 @@
 
 > 🏆 1,113 Contributions in the Year 2021
  > 
-> 📦 23.5 kB Used in GitHub's Storage 
+> 📦 23.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
