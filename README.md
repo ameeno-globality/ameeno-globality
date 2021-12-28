@@ -91,16 +91,19 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    52 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+.exportsrc.d             35 mins             ████████████████░░░░░░░░░   67.18% 
+.dotfiles                10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
+arun                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +121,7 @@ Smarty                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 
