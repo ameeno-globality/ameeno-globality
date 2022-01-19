@@ -44,11 +44,11 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -76,9 +76,9 @@
 ```text
 Monday       87 commits     ███████░░░░░░░░░░░░░░░░░░   29.39% 
 Tuesday      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.93% 
+Wednesday    60 commits     █████░░░░░░░░░░░░░░░░░░░░   20.27% 
 Thursday     62 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
