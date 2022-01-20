@@ -44,7 +44,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,7 +52,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 221 Contributions in the Year 2022
+> 🏆 219 Contributions in the Year 2022
  > 
 > 📦 25.3 kB Used in GitHub's Storage 
  > 
@@ -71,13 +71,13 @@
 🌙 Night      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       73 commits     ██████░░░░░░░░░░░░░░░░░░░   24.66% 
+Monday       70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.65% 
 Tuesday      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
 Wednesday    66 commits     █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-Thursday     72 commits     ██████░░░░░░░░░░░░░░░░░░░   24.32% 
+Thursday     75 commits     ██████░░░░░░░░░░░░░░░░░░░   25.34% 
 Friday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
@@ -126,7 +126,7 @@ Smarty                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 12:27:09 UTC
+ Last Updated on 20/01/2022 13:20:50 UTC
 <!--END_SECTION:waka-->
 
 
