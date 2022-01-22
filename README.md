@@ -54,7 +54,7 @@
 
 > 🏆 230 Contributions in the Year 2022
  > 
-> 📦 25.5 kB Used in GitHub's Storage 
+> 📦 25.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,7 +126,7 @@ Smarty                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/01/2022 17:18:36 UTC
+ Last Updated on 22/01/2022 21:14:21 UTC
 <!--END_SECTION:waka-->
 
 
