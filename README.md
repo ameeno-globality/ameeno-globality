@@ -44,7 +44,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-690%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-690%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -127,7 +127,7 @@ Makefile                 1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/02/2022 15:18:26 UTC
+ Last Updated on 27/02/2022 16:23:41 UTC
 <!--END_SECTION:waka-->
 
 
