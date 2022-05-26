@@ -44,7 +44,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -52,7 +52,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 739 Contributions in the Year 2022
+> 🏆 737 Contributions in the Year 2022
  > 
 > 📦 27.4 kB Used in GitHub's Storage 
  > 
@@ -131,7 +131,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 11:18:23 UTC
+ Last Updated on 26/05/2022 12:37:30 UTC
 <!--END_SECTION:waka-->
 
 
