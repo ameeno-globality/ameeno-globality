@@ -91,22 +91,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     3 hrs 12 mins       █████████████░░░░░░░░░░░░   54.6% 
-Smarty                   2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.6% 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 51 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-globality-harness-templat5 hrs 42 mins       ████████████████████████░   97.36% 
-helm-charts              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
-ansible-deploy           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -127,7 +121,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/06/2022 22:19:03 UTC
+ Last Updated on 08/06/2022 23:19:48 UTC
 <!--END_SECTION:waka-->
 
 
