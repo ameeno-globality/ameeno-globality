@@ -91,16 +91,19 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Smarty                   53 mins             █████████████░░░░░░░░░░░░   53.11% 
+YAML                     36 mins             █████████░░░░░░░░░░░░░░░░   36.3% 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 41 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+globality-harness-templat1 hr 41 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 41 mins        █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +124,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ameeno-globality/ameeno-globality/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 22:20:43 UTC
+ Last Updated on 09/06/2022 23:18:35 UTC
 <!--END_SECTION:waka-->
 
 
